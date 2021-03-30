@@ -4,8 +4,8 @@ Get started with React, React-Redux
 ```bash
 $ git clone https://github.com/oguz3/react-redux-template.git project-name
 $ cd project-name
-$ yarn (or `npm install`)
-$ yarn start (or `npm start`)
+$ npm install
+$ npm start
 ```
 
 ### Directory Layout
