@@ -14,9 +14,7 @@ $ yarn start (or `npm start`)
 ├── public
 ├── src                 
 │   ├── actions    
-│   │   └── index.js
-│   ├── components        
-│   ├── pages           
+│   │   └── index.js        
 │   ├── reducer    
 │   │   └── index.js
 │   ├── styles             
